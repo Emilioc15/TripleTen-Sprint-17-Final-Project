@@ -111,10 +111,15 @@ Performance thresholds for assessment:
 
 AUC-ROC	Points (SP)
 < 0.75	0
+
 0.75 – 0.81	4
+
 0.81 – 0.85	4.5
+
 0.85 – 0.87	5
+
 0.87 – 0.88	5.5
+
 ≥ 0.88	6
 
 Analyzed feature importance to understand key drivers of churn
